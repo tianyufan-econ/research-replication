@@ -6,10 +6,8 @@ Replication packages for research papers by [Tianyu Fan](https://tianyufan-econ.
 
 | Folder | Paper | Status |
 |--------|-------|--------|
-| [growing-like-india](./growing-like-india) | Growing Like India: The Unequal Effects of Service-Led Growth (*Econometrica*, 2023) | Published |
 | [geopolitical-growth](./geopolitical-growth) | Measuring Geopolitical Alignment and Economic Growth | Working Paper |
 | [geopolitical-barriers](./geopolitical-barriers) | Geopolitical Barriers to Globalization | Working Paper |
-| [technology-incidence](./technology-incidence) | The Labor Market Incidence of New Technologies | Working Paper |
 
 ## Structure
 
