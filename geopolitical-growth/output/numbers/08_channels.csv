@@ -1,0 +1,24 @@
+script,key,value,paper,full_ref
+08_channels.py,n_countries_yPWT,161.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_yPWT
+08_channels.py,n_countries_unrest_new,171.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_unrest_new
+08_channels.py,n_countries_csh_i,161.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_csh_i
+08_channels.py,n_countries_log_k,160.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_log_k
+08_channels.py,n_countries_irr,127.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_irr
+08_channels.py,n_countries_log_tfp,113.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_log_tfp
+08_channels.py,n_countries_trade,148.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_trade
+08_channels.py,n_countries_log_hc,135.0,Figure 13 (panel titles and note),03_extensions/lp_covariates_reg.py:n_countries_log_hc
+08_channels.py,trade_horizons_fewer_countries,7.0,Figure 13 note,03_extensions/lp_covariates_reg.py:trade_horizons_fewer_countries
+08_channels.py,yPWT_h15,2.2821961523397203,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:yPWT_h15
+08_channels.py,unrest_h0,-0.1152675745400635,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:unrest_h0
+08_channels.py,irr_h1,0.5444902790012919,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:irr_h1
+08_channels.py,irr_h2,0.42232264448548773,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:irr_h2
+08_channels.py,irr_ci_hi_max_h21_25,-0.17141877328223584,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:irr_ci_hi_max_h21_25
+08_channels.py,csh_i_h1,1.0946897846267247,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:csh_i_h1
+08_channels.py,csh_i_h2,0.9901174895869762,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:csh_i_h2
+08_channels.py,log_k_h8_12_min,2.1717744432157433,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:log_k_h8_12_min
+08_channels.py,log_k_h8_12_max,2.3399295130100386,"Section 4.1, Figure 13(a)",03_extensions/lp_covariates_reg.py:log_k_h8_12_max
+08_channels.py,log_tfp_h4,1.5393333651223884,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:log_tfp_h4
+08_channels.py,log_tfp_min_h2_10,1.0381757577822457,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:log_tfp_min_h2_10
+08_channels.py,trade_h0,0.6377314244311041,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:trade_h0
+08_channels.py,trade_max_h16_25,1.9758384052841773,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:trade_max_h16_25
+08_channels.py,log_hc_significant_post_impact,0.0,"Section 4.1, Figure 13(b)",03_extensions/lp_covariates_reg.py:log_hc_significant_post_impact

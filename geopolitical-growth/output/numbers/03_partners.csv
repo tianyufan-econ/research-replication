@@ -1,0 +1,11 @@
+script,key,value,paper,full_ref
+03_partners.py,peak_coef_geo_relation_dyn_us,4.234430967541907,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_coef_geo_relation_dyn_us
+03_partners.py,peak_h_geo_relation_dyn_us,7.0,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_h_geo_relation_dyn_us
+03_partners.py,peak_coef_geo_relation_dyn_westexus,3.94644529105839,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_coef_geo_relation_dyn_westexus
+03_partners.py,peak_h_geo_relation_dyn_westexus,4.0,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_h_geo_relation_dyn_westexus
+03_partners.py,peak_coef_geo_relation_dyn_nonwestern,3.9588828400502796,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_coef_geo_relation_dyn_nonwestern
+03_partners.py,peak_h_geo_relation_dyn_nonwestern,3.0,"Section 3.3.1, Figure 8(a)",02_baseline/lp_partner_3way_reg.py:peak_h_geo_relation_dyn_nonwestern
+03_partners.py,subperiod_peak_1960_1989,2.5625351482534047,"Section 3.3.1, Figure 8(b)",02_baseline_plot/plot_symmetry.py:subperiod_peak_1960_1989
+03_partners.py,subperiod_n_obs_h0_1960_1989,2995.0,"Section 3.3.1, footnote to Figure 8(b)",02_baseline_plot/plot_symmetry.py:subperiod_n_obs_h0_1960_1989
+03_partners.py,subperiod_peak_1990_2019,3.526415863000461,"Section 3.3.1, Figure 8(b)",02_baseline_plot/plot_symmetry.py:subperiod_peak_1990_2019
+03_partners.py,subperiod_n_obs_h0_1990_2019,4431.0,"Section 3.3.1, footnote to Figure 8(b)",02_baseline_plot/plot_symmetry.py:subperiod_n_obs_h0_1990_2019

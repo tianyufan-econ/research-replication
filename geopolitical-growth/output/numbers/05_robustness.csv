@@ -1,0 +1,25 @@
+script,key,value,paper,full_ref
+05_robustness.py,fe_peak_Region_Year_FE,3.3309522648253407,"Section 3.3.3, Figure 10(a)",02_baseline/lp_robust_fe_reg.py:fe_peak_Region_Year_FE
+05_robustness.py,fe_n_countries_Region_Year_FE,148.0,Figure 10 note,02_baseline/lp_robust_fe_reg.py:fe_n_countries_Region_Year_FE
+05_robustness.py,fe_n_obs_h0_Region_Year_FE,8154.0,Figure 10 note (effective sample at h = 0),02_baseline/lp_robust_fe_reg.py:fe_n_obs_h0_Region_Year_FE
+05_robustness.py,fe_peak_Year_FE,3.310244961875487,"Section 3.3.3, Figure 10(a)",02_baseline/lp_robust_fe_reg.py:fe_peak_Year_FE
+05_robustness.py,fe_n_countries_Year_FE,148.0,Figure 10 note,02_baseline/lp_robust_fe_reg.py:fe_n_countries_Year_FE
+05_robustness.py,fe_n_obs_h0_Year_FE,8154.0,Figure 10 note (effective sample at h = 0),02_baseline/lp_robust_fe_reg.py:fe_n_obs_h0_Year_FE
+05_robustness.py,fe_peak_Initial_GDP_Year_FE,3.03064900919633,"Section 3.3.3, Figure 10(a)",02_baseline/lp_robust_fe_reg.py:fe_peak_Initial_GDP_Year_FE
+05_robustness.py,fe_n_countries_Initial_GDP_Year_FE,122.0,Figure 10 note,02_baseline/lp_robust_fe_reg.py:fe_n_countries_Initial_GDP_Year_FE
+05_robustness.py,fe_n_obs_h0_Initial_GDP_Year_FE,6884.0,Figure 10 note (effective sample at h = 0),02_baseline/lp_robust_fe_reg.py:fe_n_obs_h0_Initial_GDP_Year_FE
+05_robustness.py,fe_peak_Region_Regime_Year_FE,3.378784248268309,"Section 3.3.3, Figure 10(a)",02_baseline/lp_robust_fe_reg.py:fe_peak_Region_Regime_Year_FE
+05_robustness.py,fe_n_countries_Region_Regime_Year_FE,144.0,Figure 10 note,02_baseline/lp_robust_fe_reg.py:fe_n_countries_Region_Regime_Year_FE
+05_robustness.py,fe_n_obs_h0_Region_Regime_Year_FE,7125.0,Figure 10 note (effective sample at h = 0),02_baseline/lp_robust_fe_reg.py:fe_n_obs_h0_Region_Regime_Year_FE
+05_robustness.py,fe_peak_Region_Initial_Regime_Year_FE,3.4231701429148758,"Section 3.3.3, Figure 10(a)",02_baseline/lp_robust_fe_reg.py:fe_peak_Region_Initial_Regime_Year_FE
+05_robustness.py,fe_n_countries_Region_Initial_Regime_Year_FE,144.0,Figure 10 note,02_baseline/lp_robust_fe_reg.py:fe_n_countries_Region_Initial_Regime_Year_FE
+05_robustness.py,fe_n_obs_h0_Region_Initial_Regime_Year_FE,7952.0,Figure 10 note (effective sample at h = 0),02_baseline/lp_robust_fe_reg.py:fe_n_obs_h0_Region_Initial_Regime_Year_FE
+05_robustness.py,n_countries_1960_gdp_quintile,145.0,"Section 3.3.3, footnote on initial GDP quintiles",02_baseline/lp_robust_fe_reg.py:n_countries_1960_gdp_quintile
+05_robustness.py,n_countries_common_sample,98.0,Section 3.3.3 and Figure 10 note,05_robustness/combined_controls.py:n_countries_common_sample
+05_robustness.py,peak_coef[Baseline],3.3109967047688866,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:peak_coef[Baseline]
+05_robustness.py,peak_coef[+ Growth Fundamentals],2.9533974728216497,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:peak_coef[+ Growth Fundamentals]
+05_robustness.py,peak_coef[+ Unrest and War Exposure],2.7497827225111915,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:peak_coef[+ Unrest and War Exposure]
+05_robustness.py,peak_coef[+ Institutions],2.9275652144525903,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:peak_coef[+ Institutions]
+05_robustness.py,peak_coef[+ Current Values],2.247795309967604,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:peak_coef[+ Current Values]
+05_robustness.py,current_values_h5,2.0974752490874926,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:current_values_h5
+05_robustness.py,current_values_h10,1.4029385822602893,"Section 3.3.3, Figure 10(b)",05_robustness/combined_controls.py:current_values_h10

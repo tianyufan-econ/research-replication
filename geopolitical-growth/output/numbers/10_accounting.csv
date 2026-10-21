@@ -1,0 +1,97 @@
+script,key,value,paper,full_ref
+10_accounting.py,median_within_1960s,-0.1093369143238274,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_1960s
+10_accounting.py,median_within_1970s,0.7320168895332028,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_1970s
+10_accounting.py,median_within_1980s,0.9317157523156938,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_1980s
+10_accounting.py,median_within_1990s,0.8706717248743763,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_1990s
+10_accounting.py,median_within_2000s,-0.0873586294270062,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_2000s
+10_accounting.py,median_within_2010s,-0.4587759036379515,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_2010s
+10_accounting.py,median_within_2020-2024,0.0812001203818156,"Section 4.3, Figure 16(a)",03_extensions/growth_accounting_reg.py:median_within_2020-2024
+10_accounting.py,median_25yr_1960s,-0.2309208995352008,"Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_1960s
+10_accounting.py,median_25yr_1970s,0.97913021990811,"Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_1970s
+10_accounting.py,median_25yr_1980s,4.5518196501970225,"Introduction; Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_1980s
+10_accounting.py,median_25yr_1990s,1.8253563813727969,"Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_1990s
+10_accounting.py,median_25yr_2000s,1.4972303034793375,"Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_2000s
+10_accounting.py,median_25yr_2010s,-1.1854721782768298,"Introduction; Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_2010s
+10_accounting.py,median_25yr_2020-2024,0.6615173704987777,"Section 4.3, Figure 16(b)",03_extensions/growth_accounting_reg.py:median_25yr_2020-2024
+10_accounting.py,fig17a_x_min,-31.084013042403207,"Introduction; Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_x_min
+10_accounting.py,fig17a_x_max,31.27483836379823,"Introduction; Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_x_max
+10_accounting.py,fig17a_y_min,-18.649929589052945,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_y_min
+10_accounting.py,fig17a_y_max,27.626455712312055,"Introduction; Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_y_max
+10_accounting.py,fig17a_n_countries,193.0,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_n_countries
+10_accounting.py,fig17a_quadrant_pp,48.0,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_quadrant_pp
+10_accounting.py,fig17a_quadrant_np,45.0,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_quadrant_np
+10_accounting.py,fig17a_quadrant_nn,56.0,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_quadrant_nn
+10_accounting.py,fig17a_quadrant_pn,44.0,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_quadrant_pn
+10_accounting.py,fig17a_ZAF_1960_1990,-6.1314662265938615,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_ZAF_1960_1990
+10_accounting.py,fig17a_ZAF_1991_2024,27.626455712312055,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_ZAF_1991_2024
+10_accounting.py,fig17a_EST_1960_1990,-19.322567404023854,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_EST_1960_1990
+10_accounting.py,fig17a_EST_1991_2024,17.924271732381204,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_EST_1991_2024
+10_accounting.py,fig17a_LVA_1960_1990,-11.543036623320234,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_LVA_1960_1990
+10_accounting.py,fig17a_LVA_1991_2024,19.847469995355176,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_LVA_1991_2024
+10_accounting.py,fig17a_LTU_1960_1990,-8.931115121693976,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_LTU_1960_1990
+10_accounting.py,fig17a_LTU_1991_2024,21.364022433826122,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_LTU_1991_2024
+10_accounting.py,fig17a_CHL_1960_1990,-31.084013042403207,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_CHL_1960_1990
+10_accounting.py,fig17a_CHL_1991_2024,23.34242185768356,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_CHL_1991_2024
+10_accounting.py,fig17a_GEO_1960_1990,7.611324413299364,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_GEO_1960_1990
+10_accounting.py,fig17a_GEO_1991_2024,17.152511711694885,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_GEO_1991_2024
+10_accounting.py,fig17a_VEN_1960_1990,-1.7836845483006318,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_VEN_1960_1990
+10_accounting.py,fig17a_VEN_1991_2024,-18.649929589052945,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_VEN_1991_2024
+10_accounting.py,fig17a_NIC_1960_1990,-3.8490847136776507,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_NIC_1960_1990
+10_accounting.py,fig17a_NIC_1991_2024,-16.042067036757583,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_NIC_1991_2024
+10_accounting.py,fig17a_CHN_1960_1990,23.616196060730697,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_CHN_1960_1990
+10_accounting.py,fig17a_CHN_1991_2024,-17.0458824048445,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_CHN_1991_2024
+10_accounting.py,fig17a_HUN_1960_1990,22.59878943494474,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_HUN_1960_1990
+10_accounting.py,fig17a_HUN_1991_2024,-15.019502562168057,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_HUN_1991_2024
+10_accounting.py,fig17a_largest_reversal,54.42643490008677,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_largest_reversal
+10_accounting.py,fig17a_largest_negative_reversal,-40.6620784655752,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_largest_negative_reversal
+10_accounting.py,fig17a_corr_xy,-0.13695744468329607,"Section 4.3, Figure 17(a)",03_extensions_plot/plot_growth_accounting.py:fig17a_corr_xy
+10_accounting.py,fig17b_min,-28.594860309690663,"Introduction; Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_min
+10_accounting.py,fig17b_max,11.512078644120173,"Introduction; Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_max
+10_accounting.py,fig17b_n_countries,168.0,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_n_countries
+10_accounting.py,fig17b_median_index_2024,0.31028338733042227,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_median_index_2024
+10_accounting.py,fig17b_longrun_effect,71.48056729610329,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_longrun_effect
+10_accounting.py,fig17b_bottom1_RUS,-28.594860309690663,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_bottom1_RUS
+10_accounting.py,fig17b_bottom2_BLR,-26.99916528500264,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_bottom2_BLR
+10_accounting.py,fig17b_bottom3_NIC,-26.332867235867695,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_bottom3_NIC
+10_accounting.py,fig17b_bottom4_IRN,-24.849440884460783,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_bottom4_IRN
+10_accounting.py,fig17b_bottom5_CHN,-24.840198528254394,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_bottom5_CHN
+10_accounting.py,fig17b_top1_SGP,11.512078644120173,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_top1_SGP
+10_accounting.py,fig17b_top2_QAT,10.951373071043955,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_top2_QAT
+10_accounting.py,fig17b_top3_LAO,10.057965284002393,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_top3_LAO
+10_accounting.py,fig17b_top4_MOZ,9.816107796266087,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_top4_MOZ
+10_accounting.py,fig17b_top5_MNG,9.461043306736062,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_top5_MNG
+10_accounting.py,fig17b_ISR,-16.999135019187662,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_ISR
+10_accounting.py,fig17b_CAN,-11.130574684850782,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_CAN
+10_accounting.py,fig17b_USA,-14.638550015714205,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_USA
+10_accounting.py,fig17b_mean_major,-4.963366701310838,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_mean_major
+10_accounting.py,fig17b_mean_other,-0.32353213461625696,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_mean_other
+10_accounting.py,fig17b_spearman_gdp,-0.058918511244628255,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_spearman_gdp
+10_accounting.py,fig17b_pearson_gdp,-0.03383732062281632,"Section 4.3, Figure 17(b)",03_extensions_plot/plot_growth_accounting.py:fig17b_pearson_gdp
+10_accounting.py,sigma,0.14069170857195315,Section 2.4 and Section 3.2,03_extensions/episode_table.py:sigma
+10_accounting.py,p25,0.1539386495885673,Section 3.2; Table 4 note,03_extensions/episode_table.py:p25
+10_accounting.py,p75,0.339936150871041,Section 3.2; Table 4 note,03_extensions/episode_table.py:p75
+10_accounting.py,median,0.2610615316434462,Section 3.2,03_extensions/episode_table.py:median
+10_accounting.py,min,-0.4303664924300032,Section 3.2,03_extensions/episode_table.py:min
+10_accounting.py,max,0.5497640071933811,Section 3.2,03_extensions/episode_table.py:max
+10_accounting.py,iqr,0.18599750128247372,"Section 2.4, Table 4",03_extensions/episode_table.py:iqr
+10_accounting.py,iqr_sd,1.322021767809793,"Section 2.4, Table 4",03_extensions/episode_table.py:iqr_sd
+10_accounting.py,sd_permanent25_logpts,10.05672314258125,Section 3.2,03_extensions/episode_table.py:sd_permanent25_logpts
+10_accounting.py,iqr_permanent25_logpts,13.29520690732892,Section 3.2,03_extensions/episode_table.py:iqr_permanent25_logpts
+10_accounting.py,ZAF_1986_1996_delta,0.6860625350936673,Table 4,03_extensions/episode_table.py:ZAF_1986_1996_delta
+10_accounting.py,ZAF_1986_1996_sd,4.876353710231604,Table 4; Section 2.4,03_extensions/episode_table.py:ZAF_1986_1996_sd
+10_accounting.py,IRN_1977_1983_delta,-0.4809004428458823,Table 4,03_extensions/episode_table.py:IRN_1977_1983_delta
+10_accounting.py,IRN_1977_1983_sd,-3.4181150241695883,Table 4; Section 2.4,03_extensions/episode_table.py:IRN_1977_1983_sd
+10_accounting.py,POL_1988_1998_delta,0.2707644050155511,Table 4,03_extensions/episode_table.py:POL_1988_1998_delta
+10_accounting.py,POL_1988_1998_sd,1.924522829126605,Table 4,03_extensions/episode_table.py:POL_1988_1998_sd
+10_accounting.py,CHN_1976_1986_delta,0.15498272846231098,Table 4,03_extensions/episode_table.py:CHN_1976_1986_delta
+10_accounting.py,CHN_1976_1986_sd,1.1015768451134351,Table 4,03_extensions/episode_table.py:CHN_1976_1986_sd
+10_accounting.py,IRQ_1989_1994_delta,-0.5765453967402119,Table 4,03_extensions/episode_table.py:IRQ_1989_1994_delta
+10_accounting.py,IRQ_1989_1994_sd,-4.097934431191818,Table 4; Section 2.4,03_extensions/episode_table.py:IRQ_1989_1994_sd
+10_accounting.py,VNM_1990_2000_delta,0.19425949393342146,Table 4,03_extensions/episode_table.py:VNM_1990_2000_delta
+10_accounting.py,VNM_1990_2000_sd,1.3807458584815782,Table 4; Section 3.2,03_extensions/episode_table.py:VNM_1990_2000_sd
+10_accounting.py,RUS_2005_2015_delta,-0.13660891182775958,Table 4,03_extensions/episode_table.py:RUS_2005_2015_delta
+10_accounting.py,RUS_2005_2015_sd,-0.9709805447269444,Table 4; Section 2.4; Section 3.2,03_extensions/episode_table.py:RUS_2005_2015_sd
+10_accounting.py,IDN_1996_2004_delta,0.1336942687412998,Table 4,03_extensions/episode_table.py:IDN_1996_2004_delta
+10_accounting.py,IDN_1996_2004_sd,0.950264021229974,Table 4; Section 2.4,03_extensions/episode_table.py:IDN_1996_2004_sd
+10_accounting.py,EGY_1973_1981_delta,0.04873847954655752,Table 4,03_extensions/episode_table.py:EGY_1973_1981_delta
+10_accounting.py,EGY_1973_1981_sd,0.346420411275562,Table 4,03_extensions/episode_table.py:EGY_1973_1981_sd

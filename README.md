@@ -15,4 +15,4 @@ Each folder contains the code and instructions to replicate the results in the c
 
 ## Contact
 
-Tianyu Fan — [tianyu.fan@yale.edu](mailto:tianyu.fan@yale.edu)
+Tianyu Fan, Princeton University — [tianyufan.econ@gmail.com](mailto:tianyufan.econ@gmail.com)

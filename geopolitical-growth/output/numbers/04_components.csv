@@ -1,0 +1,28 @@
+script,key,value,paper,full_ref
+04_components.py,"corr[Full Index,Economic]",0.7282750748957662,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Full Index,Economic]"
+04_components.py,"corr[Full Index,Diplomatic]",0.7755399451185997,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Full Index,Diplomatic]"
+04_components.py,"corr[Full Index,Security]",0.6227784919854009,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Full Index,Security]"
+04_components.py,"corr[Economic,Diplomatic]",0.438658919761537,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Economic,Diplomatic]"
+04_components.py,"corr[Economic,Security]",0.3008193834134013,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Economic,Security]"
+04_components.py,"corr[Diplomatic,Security]",0.47817604332770897,Section 3.3.2,"07_decomposition/component_decomposition.py:corr[Diplomatic,Security]"
+04_components.py,horse_race_econ_peak_h0_h5,1.413682181728244,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_econ_peak_h0_h5
+04_components.py,horse_race_diplo_min_h5_h12,1.4577918284641314,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_diplo_min_h5_h12
+04_components.py,horse_race_diplo_max_h5_h12,2.2823331498952224,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_diplo_max_h5_h12
+04_components.py,horse_race_security_h10,1.8050383881742436,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_security_h10
+04_components.py,horse_race_econ_sig_horizons,7.0,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_econ_sig_horizons
+04_components.py,horse_race_diplo_sig_horizons,16.0,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_diplo_sig_horizons
+04_components.py,horse_race_security_sig_horizons,15.0,"Section 3.3.2, Figure 9(a)",07_decomposition/component_decomposition.py:horse_race_security_sig_horizons
+04_components.py,fourway_max_abs_change,0.12630713498073634,"Section 3.3.2, footnote on the fourth component",07_decomposition/component_decomposition.py:fourway_max_abs_change
+04_components.py,fourway_peak[Economic],1.3991337771269023,"Section 3.3.2, footnote on the fourth component",07_decomposition/component_decomposition.py:fourway_peak[Economic]
+04_components.py,fourway_peak[Diplomatic],2.2866409326937487,"Section 3.3.2, footnote on the fourth component",07_decomposition/component_decomposition.py:fourway_peak[Diplomatic]
+04_components.py,fourway_peak[Security],1.9595085084742434,"Section 3.3.2, footnote on the fourth component",07_decomposition/component_decomposition.py:fourway_peak[Security]
+04_components.py,fourway_other_n_pos_sig,0.0,"Section 3.3.2, footnote on the fourth component",07_decomposition/component_decomposition.py:fourway_other_n_pos_sig
+04_components.py,corr_formal_llm_baseline,0.8056754410509849,Section 3.3.2,07_decomposition/formal_acts.py:corr_formal_llm_baseline
+04_components.py,corr_formal_fixed_baseline,0.7933519023616159,Section 3.3.2,07_decomposition/formal_acts.py:corr_formal_fixed_baseline
+04_components.py,formal_llm_inside_baseline_ci_h0_15,16.0,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_llm_inside_baseline_ci_h0_15
+04_components.py,formal_fixed_inside_baseline_ci_h0_15,16.0,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_fixed_inside_baseline_ci_h0_15
+04_components.py,formal_llm_peak,2.9533359383341167,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_llm_peak
+04_components.py,formal_llm_peak_h,12.0,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_llm_peak_h
+04_components.py,formal_fixed_peak,3.0651021510901217,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_fixed_peak
+04_components.py,baseline_peak,3.3309522648253407,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:baseline_peak
+04_components.py,formal_fixed_max_gap,0.2282553349059443,"Section 3.3.2, Figure 9(b)",07_decomposition/formal_acts.py:formal_fixed_max_gap

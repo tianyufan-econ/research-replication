@@ -1,0 +1,6 @@
+script,key,value,paper,full_ref
+06_placebo.py,placebo_A_n_iter,500.0,"Section 3.3.4, Figure 11 (note)",06_placebo/placebo_plot.py:placebo_A_n_iter
+06_placebo.py,placebo_A_max_abs_median_irf,0.05685803536890283,"Section 3.3.4, Figure 11(a)",06_placebo/placebo_plot.py:placebo_A_max_abs_median_irf
+06_placebo.py,placebo_B_n_iter,500.0,"Section 3.3.4, Figure 11 (note)",06_placebo/placebo_plot.py:placebo_B_n_iter
+06_placebo.py,placebo_B_max_abs_median_irf_h0_h5,0.042009689564648255,"Section 3.3.4, Figure 11(b)",06_placebo/placebo_plot.py:placebo_B_max_abs_median_irf_h0_h5
+06_placebo.py,placebo_B_median_irf_h9,-0.5534291992380377,"Section 3.3.4, Figure 11(b)",06_placebo/placebo_plot.py:placebo_B_median_irf_h9

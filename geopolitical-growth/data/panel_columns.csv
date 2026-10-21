@@ -1,0 +1,62 @@
+column,source,description
+country_code,analysis panel,ISO 3166-1 alpha-3 code
+year,analysis panel,calendar year
+country_name,analysis panel (base),country name
+country,analysis panel (base),country name used as the panel identifier by some specifications
+region,analysis panel (base),World Bank region (region-year fixed effects)
+regYr,analysis panel (base),region-year cell code
+country_idx,analysis panel (base),numeric country code of the analysis panel
+y_ext,analysis panel (base),"log GDP per capita x 100 (Acemoglu et al. 2019, constant 2000 USD, chained with WDI)"
+yPWT,analysis panel (base),"log real GDP per capita x 100 (PWT 11.0, rgdpna/pop)"
+y,analysis panel (base),log GDP per capita x 100 in the Acemoglu et al. (2019) base data
+geo_relation_dyn,analysis panel (base),geopolitical alignment index: GDP-weighted dynamic alignment with the 24 major nations
+geo_relation_dyn_us,analysis panel (base),alignment component: relations with the United States
+geo_relation_dyn_western,analysis panel (base),"alignment component: relations with the 13 Western major nations, including the United States (other-Western = this minus geo_relation_dyn_us)"
+geo_relation_dyn_nonwestern,analysis panel (base),alignment component: relations with non-Western major nations
+geo_relation_dyn_exclus,analysis panel (base),aggregate index minus the US component (not the other-Western component)
+demANRR,analysis panel (base),"democracy indicator (Acemoglu et al. 2019, extended)"
+irr,analysis panel (channels),real internal rate of return (PWT 11.0)
+rtfpna,analysis panel (channels),TFP at constant national prices (PWT 11.0)
+econ_relation_dyn,data/geopolitical/dyad_geopolitical_scores_unified.csv.gz and data/world_gdp.xlsx (07_decomposition/component_decomposition.py: load_and_aggregate),alignment component built from economic-relations events (category A)
+diplo_relation_dyn,data/geopolitical/dyad_geopolitical_scores_unified.csv.gz and data/world_gdp.xlsx (07_decomposition/component_decomposition.py: load_and_aggregate),alignment component built from diplomatic and political events (category B)
+security_relation_dyn,data/geopolitical/dyad_geopolitical_scores_unified.csv.gz and data/world_gdp.xlsx (07_decomposition/component_decomposition.py: load_and_aggregate),"alignment component built from security, defense and territorial events (categories C and D)"
+other_relation_dyn,data/geopolitical/dyad_geopolitical_scores_unified.csv.gz and data/world_gdp.xlsx (07_decomposition/component_decomposition.py: load_and_aggregate),alignment component built from multilateral governance and other events (categories E and F; footnote check only)
+trade,analysis panel (controls),trade as a share of GDP (WDI)
+unrest_new,analysis panel (controls),domestic unrest indicator (derived from CNTS 2024; the CNTS file itself is licensed)
+v2x_polyarchy,analysis panel (controls),V-Dem electoral democracy index
+v2x_liberal,analysis panel (controls),V-Dem liberal component index
+v2x_partip,analysis panel (controls),V-Dem participatory component index
+v2xdl_delib,analysis panel (controls),V-Dem deliberative component index
+v2x_egal,analysis panel (controls),V-Dem egalitarian component index
+logpop,analysis panel (controls),log population
+pop014share,analysis panel (controls),population share aged 0-14
+pop1564share,analysis panel (controls),population share aged 15-64
+csh_i,analysis panel (controls),investment share of GDP (PWT 11.0)
+hc,analysis panel (controls),human capital index (PWT 11.0)
+rnna,analysis panel (controls),real capital stock (PWT 11.0)
+geo_score_dyn_USA,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with the United States
+geo_score_dyn_GBR,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with the United Kingdom
+geo_score_dyn_DEU,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with Germany
+geo_score_dyn_FRA,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with France
+geo_score_dyn_RUS,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with Russia
+geo_score_dyn_CHN,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with China
+geo_score_dyn_IND,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with India
+geo_score_dyn_JPN,data/geopolitical/country_year_measures_24nations.csv.gz (00_data/build_panel.py),dynamic bilateral alignment score with Japan
+iniGDP_yr,analysis panel (fe_codes),initial GDP quintile-year cell code (quintile of 1960 Maddison GDP per capita x year)
+regRegYr,analysis panel (fe_codes),region-current regime-year cell code (region x democracy status x year)
+regIniregYr,analysis panel (fe_codes),region-initial regime-year cell code (region x initial democracy status x year)
+fig16_jitter_within,output/cache/growth_accounting/decade_boxplot_jitter_2024.json (recorded plotting jitter),Figure 16(a): recorded horizontal jitter of the country's dot for the period that starts in this year (plotting only)
+fig16_jitter_25yr,output/cache/growth_accounting/decade_boxplot_jitter_2024.json (recorded plotting jitter),Figure 16(b): recorded horizontal jitter of the country's dot for the period that starts in this year (plotting only)
+formal_llm_relation_dyn,data/geopolitical/formal_acts_country_year.csv.gz (00_data/build_formal_acts.py),"alignment index rebuilt from formal acts only, model intensity scores"
+formal_relation_dyn,data/geopolitical/formal_acts_country_year.csv.gz (00_data/build_formal_acts.py),"alignment index rebuilt from formal acts only, each act scored at the median Goldstein value of its CAMEO code"
+z_leader,data/leader_iv/tp1_tm1/panel_with_leader_iv.csv.gz (09_iv/build_leader_instrument.py --pre 1 --post 1 --label tp1_tm1),leadership-change instrument: GDP-share-weighted bilateral score shift S_{t+1} - S_{t-1} around deaths in office and close-election turnovers in the major nations (0 if none)
+era_type,"rawdata/historical_eras/country_eras_panel.csv (era_type, LLM-coded, frozen); data/vdem_regime_transitions.csv (vdem_*, 00_data)",historical-institutional era of the country-year: transformation or stable (missing = not coded)
+vdem_event,"rawdata/historical_eras/country_eras_panel.csv (era_type, LLM-coded, frozen); data/vdem_regime_transitions.csv (vdem_*, 00_data)",change in V-Dem Regimes of the World type (v2x_regime) in the year
+vdem_window_1,"rawdata/historical_eras/country_eras_panel.csv (era_type, LLM-coded, frozen); data/vdem_regime_transitions.csv (vdem_*, 00_data)",within 1 year of a V-Dem regime-type change (missing = not covered by V-Dem)
+vdem_window_3,"rawdata/historical_eras/country_eras_panel.csv (era_type, LLM-coded, frozen); data/vdem_regime_transitions.csv (vdem_*, 00_data)",within 3 years of a V-Dem regime-type change (missing = not covered by V-Dem)
+vdem_window_5,"rawdata/historical_eras/country_eras_panel.csv (era_type, LLM-coded, frozen); data/vdem_regime_transitions.csv (vdem_*, 00_data)",within 5 years of a V-Dem regime-type change (missing = not covered by V-Dem)
+war_site_onset_all,data/war_controls/controls_all_wars_country_year.csv (00_data/build_war_controls.py),onset of a war on the country's territory
+war_site_caspop_all,data/war_controls/controls_all_wars_country_year.csv (00_data/build_war_controls.py),casualties of wars on the country's territory relative to population
+war_trade_caspop_weighted_all,data/war_controls/controls_all_wars_country_year.csv (00_data/build_war_controls.py),trade-weighted casualties of foreign wars
+war_prox_caspop_weighted_all,data/war_controls/controls_all_wars_country_year.csv (00_data/build_war_controls.py),proximity-weighted casualties of foreign wars
+war_exposure_site_count_all,data/war_controls/controls_all_wars_country_year.csv (00_data/build_war_controls.py),number of active foreign war sites

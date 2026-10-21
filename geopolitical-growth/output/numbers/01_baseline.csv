@@ -1,0 +1,14 @@
+script,key,value,paper,full_ref
+01_baseline.py,baseline_coef_h0,0.4972998149218158,"Section 3.2, Figure 6(b)",02_baseline/lp_baseline_reg.py:baseline_coef_h0
+01_baseline.py,baseline_peak_coef,3.3309522648253407,"Section 3.2, Figure 6(b)",02_baseline/lp_baseline_reg.py:baseline_peak_coef
+01_baseline.py,baseline_peak_h,11.0,Introduction and Section 3.2,02_baseline/lp_baseline_reg.py:baseline_peak_h
+01_baseline.py,baseline_coef_h20,1.3706803191548216,"Section 3.2, Figure 6(b)",02_baseline/lp_baseline_reg.py:baseline_coef_h20
+01_baseline.py,baseline_ci_lo_h20,0.04914453430688548,Introduction,02_baseline/lp_baseline_reg.py:baseline_ci_lo_h20
+01_baseline.py,baseline_ci_hi_h20,2.6922161040027577,Introduction,02_baseline/lp_baseline_reg.py:baseline_ci_hi_h20
+01_baseline.py,baseline_n_pre_horizons_ci_excl_zero,0.0,Section 3.5,02_baseline/lp_baseline_reg.py:baseline_n_pre_horizons_ci_excl_zero
+01_baseline.py,n_countries_long_coverage,148.0,Section 3.1,02_baseline/lp_baseline_reg.py:n_countries_long_coverage
+01_baseline.py,self_irf_h4,0.601610907806881,"Section 3.2, Figure 6(a)",02_baseline/lp_baseline_reg.py:self_irf_h4
+01_baseline.py,self_irf_h10,0.15422954565776936,"Section 3.2, Figure 6(a)",02_baseline/lp_baseline_reg.py:self_irf_h10
+01_baseline.py,self_irf_h14,0.0019867211518768985,"Section 3.2, Figure 6(a)",02_baseline/lp_baseline_reg.py:self_irf_h14
+01_baseline.py,self_irf_h20,-0.08970839553329547,"Section 3.2, Figure 6(a)",02_baseline/lp_baseline_reg.py:self_irf_h20
+01_baseline.py,self_irf_all_negative_h15_20,1.0,"Section 3.2, Figure 6(a)",02_baseline/lp_baseline_reg.py:self_irf_all_negative_h15_20

@@ -1,0 +1,10 @@
+script,key,value,paper,full_ref
+02_sustained.py,transitory_h0,0.49729981492078407,"Section 3.2, Figure 7(a)",02_baseline/lp_transitory_reg.py:transitory_h0
+02_sustained.py,transitory_h1,0.9188189691960383,"Section 3.2, Figure 7(a)",02_baseline/lp_transitory_reg.py:transitory_h1
+02_sustained.py,sustained_h25,10.05672314258125,"Section 3.2, Figure 7(b) and Economic Magnitude",02_baseline/lp_transitory_reg.py:sustained_h25
+02_sustained.py,sustained_h25_ci_lo,5.278014381994495,"Section 3.2, Economic Magnitude",02_baseline/lp_transitory_bootstrap.py:sustained_h25_ci_lo
+02_sustained.py,sustained_h25_ci_hi,16.78123151147776,"Section 3.2, Economic Magnitude",02_baseline/lp_transitory_bootstrap.py:sustained_h25_ci_hi
+02_sustained.py,sigma_pooled,0.14069170857195315,"Section 3.2, Economic Magnitude",02_baseline/lp_transitory_bootstrap.py:sigma_pooled
+02_sustained.py,sustained_h25_ci_lo_twoway,4.124927853771555,"Section 3.2, footnote to Economic Magnitude",02_baseline/sustained_path_inference.py:sustained_h25_ci_lo_twoway
+02_sustained.py,sustained_h25_ci_hi_twoway,15.988518431396237,"Section 3.2, footnote to Economic Magnitude",02_baseline/sustained_path_inference.py:sustained_h25_ci_hi_twoway
+02_sustained.py,sustained_h25_spj,10.247529097262488,"Section 3.2, footnote to Economic Magnitude",02_baseline/sustained_path_inference.py:sustained_h25_spj

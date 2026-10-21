@@ -1,0 +1,30 @@
+script,key,value,paper,full_ref
+07_transformations_iv.py,coef_h5[Baseline],3.095318804010493,"Section 3.4.1, Figure 12(a)",05_robustness/era_fe_robustness_vdem.py:coef_h5[Baseline]
+07_transformations_iv.py,coef_h5[Transformation-Year Exclusion],2.0115139631100885,"Section 3.4.1, Figure 12(a)",05_robustness/era_fe_robustness_vdem.py:coef_h5[Transformation-Year Exclusion]
+07_transformations_iv.py,coef_h5[V-Dem Exclusion],2.410205659901352,"Section 3.4.1, Figure 12(a)",05_robustness/era_fe_robustness_vdem.py:coef_h5[V-Dem Exclusion]
+07_transformations_iv.py,n_countries_h5[V-Dem Exclusion],132,"Section 3.4.1, Figure 12(a)",05_robustness/era_fe_robustness_vdem.py:n_countries_h5[V-Dem Exclusion]
+07_transformations_iv.py,n_countries[Baseline],148,Figure 12 note,05_robustness/era_fe_robustness_vdem.py:n_countries[Baseline]
+07_transformations_iv.py,n_horizons_h0_h20_transformation_ratio_ge_0.6,17,Introduction,05_robustness/era_fe_robustness_vdem.py:n_horizons_h0_h20_transformation_ratio_ge_0.6
+07_transformations_iv.py,coef_h5[Baseline (Complete V-Dem Coverage)],3.5831883345044595,"Section 3.4.1, footnote",05_robustness/era_fe_robustness_vdem.py:coef_h5[Baseline (Complete V-Dem Coverage)]
+07_transformations_iv.py,coef_h5[V-Dem Exclusion (Complete Coverage)],2.475144233897695,"Section 3.4.1, footnote",05_robustness/era_fe_robustness_vdem.py:coef_h5[V-Dem Exclusion (Complete Coverage)]
+07_transformations_iv.py,n_countries[complete V-Dem coverage],124,"Section 3.4.1, footnote",05_robustness/era_fe_robustness_vdem.py:n_countries[complete V-Dem coverage]
+07_transformations_iv.py,n_countries_baseline,148,Figure 12 note,09_iv/lp_leader_iv_reg.py:n_countries_baseline
+07_transformations_iv.py,n_countries_common,109,Figure 12 note,09_iv/lp_leader_iv_reg.py:n_countries_common
+07_transformations_iv.py,iv_baseline_h3,4.904590890608727,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h3
+07_transformations_iv.py,iv_baseline_h4,5.719317692696797,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h4
+07_transformations_iv.py,iv_baseline_h5,5.9672396417763505,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h5
+07_transformations_iv.py,iv_baseline_h6,4.903002601365664,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h6
+07_transformations_iv.py,iv_baseline_h9,3.9702750528359387,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h9
+07_transformations_iv.py,iv_baseline_h10,5.782661157884961,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h10
+07_transformations_iv.py,iv_baseline_h11,6.254747078528562,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h11
+07_transformations_iv.py,iv_baseline_h12,6.219552315546878,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h12
+07_transformations_iv.py,iv_baseline_h13,6.597540250492323,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h13
+07_transformations_iv.py,iv_baseline_h14,5.577150985944966,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_baseline_h14
+07_transformations_iv.py,iv_full_controls_h2,5.042375278554756,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h2
+07_transformations_iv.py,iv_full_controls_h3,5.906761355260997,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h3
+07_transformations_iv.py,iv_full_controls_h4,5.2602335835737595,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h4
+07_transformations_iv.py,iv_full_controls_h5,6.543118403074005,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h5
+07_transformations_iv.py,iv_full_controls_h13,7.2105378276208425,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h13
+07_transformations_iv.py,iv_full_controls_h14,6.573592715551425,"Section 3.4.2, Figure 12(b)",09_iv/lp_leader_iv_reg.py:iv_full_controls_h14
+07_transformations_iv.py,iv_baseline_sig_horizons,"2,3,4,5,11,12,13",Section 3.4.2 (horizons whose 95% interval excludes zero),09_iv/lp_leader_iv_reg.py:iv_baseline_sig_horizons
+07_transformations_iv.py,tp1_tm1_F_h0,16.93745929285059,Section 3.4.2,09_iv/window_robustness_table.py:tp1_tm1_F_h0
